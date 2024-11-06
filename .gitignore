@@ -1,0 +1,89 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+*.nbconvert
+*.nb.html
+
+# Jupyter Notebook extensions and config
+.jupyter/
+
+# Ignore IDE settings (e.g., Visual Studio Code)
+.vscode/
+.idea/
+
+# macOS thumbnail caches and metadata files
+._*
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.so
+*.dylib
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+MANIFEST
+
+# Log files
+*.log
+
+# Coverage files
+coverage.*
+.cache
+*.cover
+*.coverage
+*.coverage.*
+
+# Test output
+.tox/
+.nox/
+.pytest_cache/
+.junit/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Profiling data
+.prof
+.profraw
+
+# Environment files
+*.env
+*.env.*
+
+# Backup files
+*~
